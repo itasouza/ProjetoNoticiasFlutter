@@ -1,0 +1,11 @@
+1 – Comando para criar aplicação
+flutter create
+flutter create shopping 
+2 – Comando para roda aplicação
+flutter run
+Para recarregar as alterações durante a execução, pressione "r". Para reiniciar a quente (e estado de reconstrução), pressione "R".
+Um depurador e profiler do observatório no ASUS X00LD está disponível em: http://127.0.0.1:52288/2CIMEma_gGo=/
+Para uma mensagem de ajuda mais detalhada, pressione "h". Para desanexar, pressione "d"; para sair, pressione "q".
+3 – Comando para abrir o setting
+Ctrl + ,  selecionar flutter
+Escolhe as opções render indent guides  e Flutter hot reload on save
